@@ -1,0 +1,4 @@
+Bonjour,
+La page questionnaire a un soucie elle remplace toutes les lettres avec un accent en point d'interrogation alors que le site est en UTF-8
+j'avais demandé des explications à mon professeur de HTML mais il n'a pas su me dire d'où venait le problème 
+cordialement
