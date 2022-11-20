@@ -1,0 +1,46 @@
+.nom{
+	margin-top : 50px;
+	font-size : 20px;
+}
+
+#Q1{
+	height : 150px;
+	margin-top : 50px;
+}
+
+#Q2{
+	height : 350px;
+	margin-top : 50px;
+}
+
+#Q3{
+	height : 350px;
+	margin-top : 50px;
+}
+#Q4{
+	height : 150px;
+	margin-top : 50px;
+}
+#Q5{
+	height : 250px;
+	margin-top : 50px;
+}
+#Q6{
+	height : 200px;
+	margin-top : 50px;
+}
+
+.envoy{
+	margin-top : 100px;
+	margin-bottom : 150px;
+}
+
+.autre{
+	margin: 20px;
+	
+}
+
+.question{
+	font-size:20px;
+	
+}
